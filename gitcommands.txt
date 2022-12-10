@@ -1,1 +1,9 @@
 this is a file that contains the git local commands:
+
+These commands will be helpful to work on git hub from local system where you contain local repository.
+git clone
+git checkout
+git remove
+git push
+git pull
+git merge
